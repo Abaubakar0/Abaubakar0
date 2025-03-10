@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Abaubakar0
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @Abaubakar0  
+🚀 Passionate about Programming & AI | 💻 C++ Enthusiast  
 
-<!---
-Abaubakar0/Abaubakar0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interested in **AI, Software Development & Problem-Solving**  
+- 🌱 Currently learning **C++ & Object-Oriented Programming**  
+- 💞Looking to collaborate on **C++ projects**  
+- 📫 Reach me: 
+[Email]: (abubakarsaddiq976@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abubakar-sadiq-a8a8a434a)  
+- ⚡ Fun fact: **Football lover,Badminton player & MMA/UFC fan!**
